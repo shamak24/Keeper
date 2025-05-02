@@ -10,7 +10,7 @@ function App() {
   return(
    <div> 
       <Header />
-      {notes.map(function(note) {
+      {notes.map((note) => {
         return <Note key={note.id} title={note.title} content={note.content} />;
       })}
       <Footer />
