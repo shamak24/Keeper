@@ -9,3 +9,11 @@ A minimal React-based notes display application inspired by Google Keep. This is
 - ❌ No input or editing of notes
 - 🌐 No backend or database connectivity
 - ⚛️ Built using React and functional components
+
+## 🚀 Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/shamak24/Keeper.git
+cd Keeper
