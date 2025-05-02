@@ -16,4 +16,3 @@ A minimal React-based notes display application inspired by Google Keep. This is
 
 ```bash
 git clone https://github.com/shamak24/Keeper.git
-cd Keeper
