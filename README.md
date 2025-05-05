@@ -5,9 +5,9 @@ A minimal React-based notes display application inspired by Google Keep. This is
 ## 🚀 Features
 
 - 📄 Displays a list of static notes
-- 🧠 Notes are stored in a local JavaScript file
-- ❌ No input or editing of notes
-- 🌐 No backend or database connectivity
+- 🧠 Notes are rendered through useState and gets deleted after refreshing
+- ✔️ input or deletion of notes
+- 🌐 No backend or database connectivity (Notes are not stored permanently)
 - ⚛️ Built using React and functional components
 
 ## 🚀 Getting Started
